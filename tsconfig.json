@@ -12,6 +12,7 @@
     "lib": ["esnext", "dom"],
     "types": [
       "unplugin-icons/types/vue", 
+      "vite-plugin-pwa"
     ],
     "paths": {
       "@/*": ["./src/*"],

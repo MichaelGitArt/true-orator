@@ -10,9 +10,32 @@ export default defineConfig({
   plugins: [
     Vue(),
     VitePWA({
+      includeAssets: [
+        'icons/favicon.svg',
+        'icons/favicon.ico',
+        'icons/apple-touch-icon.png',
+        'robots.txt',
+      ],
       manifest: {
         name: 'True Orator',
         short_name: 'Orator',
+        display: 'standalone',
+        start_url: '.',
+        background_color: '#fff',
+        description: 'Сайт для покращення мовлення і дикції',
+
+        icons: [
+          {
+            src: 'icons/android-chrome-192x192.png',
+            sizes: '192x192',
+            type: 'image/png',
+          },
+          {
+            src: 'icons/android-chrome-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+          },
+        ],
       },
     }),
     WindiCSS({
