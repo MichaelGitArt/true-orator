@@ -9,7 +9,12 @@ import AutoImport from 'unplugin-auto-import/vite'
 export default defineConfig({
   plugins: [
     Vue(),
-    VitePWA(),
+    VitePWA({
+      manifest: {
+        name: 'True Orator',
+        short_name: 'Orator',
+      },
+    }),
     WindiCSS({
       configFiles: [
         path.resolve(__dirname, 'windi.config.ts'),
