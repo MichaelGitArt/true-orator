@@ -6,9 +6,9 @@ import PatterList from '@/components/Patter/PatterList.vue'
   <div class="px-3">
     <h1
       text="xl"
-      font="bold"
+      font="semibold"
       p="t-4 "
-      m="b-2"
+      m="b-4"
     >
       Скоромовки
     </h1>

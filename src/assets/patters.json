@@ -1,282 +1,520 @@
 [
   {
-    "accent": "Б,щ",
-    "content": "Бабин біб розцвів у дощ - буде бабі біб у борщ.",
-    "id": 0
+    "id": 1,
+    "accent": [
+      "б",
+      "щ"
+    ],
+    "content": "Б<span>а</span>бин біб розцв<span>і</span>в у дощ - б<span>у</span>де б<span>а</span>бі біб у борщ."
   },
   {
-    "accent": "Б,ц",
-    "content": "Був собі цебер, та переполуцебрився на полуцебренята.",
-    "id": 1
+    "id": 2,
+    "accent": [
+      "б",
+      "ц"
+    ],
+    "content": "Був соб<span>і</span> ц<span>е</span>бер, та переполуцебр<span>и</span>вся на полуцебрен<span>я</span>та."
   },
   {
-    "accent": "Б",
-    "content": "Бобер на березі з бобренятами бублики пік.",
-    "id": 2
+    "id": 3,
+    "accent": [
+      "б"
+    ],
+    "content": "Боб<span>е</span>р на б<span>е</span>резі з бобрен<span>я</span>тами б<span>у</span>блики пік."
   },
   {
-    "accent": "Б,р",
-    "content": "Боронила борона по боронованому полю.",
-    "id": 3
+    "id": 4,
+    "accent": [
+      "б",
+      "р"
+    ],
+    "content": "Борон<span>и</span>ла борон<span>а</span> по борон<span>о</span>ваному п<span>о</span>лю."
   },
   {
-    "accent": "Б, ч",
-    "content": "Бук бундючивсь перед дубом, тряс над дубом бурим чубом. Дуб пригнув до чуба бука. Буде букові наука.",
-    "id": 4
+    "id": 5,
+    "accent": [
+      "б",
+      "ч"
+    ],
+    "content": "Бук бунд<span>ю</span>чивсь п<span>е</span>ред д<span>у</span>бом, тряс над д<span>у</span>бом б<span>у</span>рим ч<span>у</span>бом. Дуб пригн<span>у</span>в до ч<span>у</span>ба б<span>у</span>ка. Б<span>у</span>де б<span>у</span>кові на<span>у</span>ка."
   },
   {
-    "accent": "В,р,к",
-    "content": "Варка варила вареника, Василь взяв вареника. Варка Василя варехою. Василь Варку вареником.",
-    "id": 5
+    "id": 6,
+    "accent": [
+      "в",
+      "р",
+      "к"
+    ],
+    "content": "В<span>а</span>рка вар<span>и</span>ла вар<span>е</span>ника, Вас<span>и</span>ль взяв вар<span>е</span>ника. В<span>а</span>рка Васил<span>я</span> вар<span>е</span>хою. Вас<span>и</span>ль В<span>а</span>рку вар<span>е</span>ником."
   },
   {
-    "accent": "В,ч,р",
-    "content": "Вередували вереднички, що не зварили вареничків. Не вередуйте, вередниченьки, ось поваряться варениченьки.",
-    "id": 6
+    "id": 7,
+    "accent": [
+      "в",
+      "ч",
+      "р"
+    ],
+    "content": "Вередув<span>а</span>ли вередн<span>и</span>чки, що не звар<span>и</span>ли варен<span>и</span>чків. Не веред<span>у</span>йте, вередн<span>и</span>ченьки, ось пов<span>а</span>ряться варен<span>и</span>ченьки."
   },
   {
-    "accent": "В",
-    "content": "Викис, вимок, виліз, висох, став на колоду, та знов",
-    "id": 7
+    "id": 8,
+    "accent": [
+      "в"
+    ],
+    "content": "В<span>и</span>кис, в<span>и</span>мок, в<span>и</span>ліз, в<span>и</span>сох, став на кол<span>о</span>ду, та знов - бовть у в<span>о</span>ду."
   },
   {
-    "accent": "В,р,н",
-    "content": "Ворона проворонила вороненя.",
-    "id": 8
+    "id": 9,
+    "accent": [
+      "в",
+      "р",
+      "н"
+    ],
+    "content": "Вор<span>о</span>на провор<span>о</span>нила воронен<span>я</span>."
   },
   {
-    "accent": "В,д,н",
-    "content": "Наш садівник розсадівникувався.",
-    "id": 9
+    "id": 10,
+    "accent": [
+      "в",
+      "д",
+      "н"
+    ],
+    "content": "Наш садівн<span>и</span>к розсадівникув<span>а</span>вся."
   },
   {
-    "accent": "В,ц,к",
-    "content": "Вовк-вовцюг вівцю волік. Вова вовку - вила в бік. Як завив же вовк-вовцюг, миттю випустив вівцю.",
-    "id": 10
+    "id": 11,
+    "accent": [
+      "в",
+      "ц",
+      "к"
+    ],
+    "content": "Вовк-вовц<span>ю</span>г вівц<span>ю</span> вол<span>і</span>к. В<span>о</span>ва в<span>о</span>вку - в<span>и</span>ла в бік. Як зав<span>и</span>в же вовк-вовц<span>ю</span>г, м<span>и</span>ттю в<span>и</span>пустив вівц<span>ю</span>."
   },
   {
-    "accent": "Г,к",
-    "content": "Галасливі ґави й галки в гусенят взяли скакалки. Гусенята їм ґелґочуть, що й вони скакати хочуть.",
-    "id": 11
+    "id": 12,
+    "accent": [
+      "г",
+      "к"
+    ],
+    "content": "Галасл<span>и</span>ві ґ<span>а</span>ви й г<span>а</span>лки в гусен<span>я</span>т взял<span>и</span> скак<span>а</span>лки. Гусен<span>я</span>та їм ґелґ<span>о</span>чуть, що й вон<span>и</span> скак<span>а</span>ти х<span>о</span>чуть."
   },
   {
-    "accent": "Д,р",
-    "content": "Дрова рубали два дроворуби.",
-    "id": 12
+    "id": 13,
+    "accent": [
+      "д",
+      "р"
+    ],
+    "content": "Дров<span>а</span> руб<span>а</span>ли два дровор<span>у</span>би."
   },
   {
-    "accent": "Д,п",
-    "content": "У нас надворі погода розмокропогодилася.",
-    "id": 13
+    "id": 14,
+    "accent": [
+      "д",
+      "п"
+    ],
+    "content": "У нас надвор<span>і</span> пог<span>о</span>да розмокропог<span>о</span>дилася."
   },
   {
-    "accent": "Ж",
-    "content": "Дзижчить над житом жвавий жук, бо жовтий він вдягнув кожух.",
-    "id": 14
+    "id": 15,
+    "accent": [
+      "ж"
+    ],
+    "content": "Дзижч<span>и</span>ть над ж<span>и</span>том жв<span>а</span>вий жук, бо ж<span>о</span>втий він вдягн<span>у</span>в кож<span>у</span>х."
   },
   {
-    "accent": "Ж",
-    "content": "Біжать стежини поміж ожини.",
-    "id": 15
+    "id": 16,
+    "accent": [
+      "ж"
+    ],
+    "content": "Біж<span>а</span>ть стеж<span>и</span>ни п<span>о</span>між ож<span>и</span>ни."
   },
   {
-    "accent": "З",
-    "content": "Захар заліз на перелаз.",
-    "id": 16
+    "id": 17,
+    "accent": [
+      "з"
+    ],
+    "content": "Зах<span>а</span>р зал<span>і</span>з на перел<span>а</span>з. - Зах<span>а</span>рку, злізь! - Зах<span>а</span>рку, злазь! Зум<span>і</span>в зал<span>і</span>зти - Знай, як зл<span>і</span>зти."
   },
   {
-    "accent": "К,п,р",
-    "content": "Кинув кріп Прокіп в окріп. У окропі, окрім кропу кипить короп для Прокопа.",
-    "id": 17
+    "id": 18,
+    "accent": [
+      "к",
+      "п",
+      "р"
+    ],
+    "content": "К<span>и</span>нув кріп Прок<span>і</span>п в окр<span>і</span>п. У окр<span>о</span>пі, окр<span>і</span>м кр<span>о</span>пу кип<span>и</span>ть к<span>о</span>роп для Прок<span>о</span>па."
   },
   {
-    "accent": "К,в",
-    "content": "Коваль кулю кував, кував і перековував.",
-    "id": 18
+    "id": 19,
+    "accent": [
+      "к",
+      "в"
+    ],
+    "content": "Ков<span>а</span>ль к<span>у</span>лю кув<span>а</span>в, кув<span>а</span>в і перек<span>о</span>вував."
   },
   {
-    "accent": "К,д",
-    "content": "Ходить квочка коло кілочка, водить діток, дрібних квіток.",
-    "id": 19
+    "id": 20,
+    "accent": [
+      "к",
+      "д"
+    ],
+    "content": "Х<span>о</span>дить кв<span>о</span>чка к<span>о</span>ло кіл<span>о</span>чка, в<span>о</span>дить д<span>і</span>ток, дрібн<span>и</span>х кв<span>і</span>ток."
   },
   {
-    "accent": "К,ш,п",
-    "content": "На кому шапка найковпакуватіша.",
-    "id": 20
+    "id": 21,
+    "accent": [
+      "к",
+      "ш",
+      "п"
+    ],
+    "content": "На к<span>о</span>му ш<span>а</span>пка найковпакув<span>а</span>тіша."
   },
   {
-    "accent": "К,п",
-    "content": "Наш Карпо з своїми карпиненятами полукалу",
-    "id": 21
+    "id": 22,
+    "accent": [
+      "к",
+      "п"
+    ],
+    "content": "Наш К<span>а</span>рпо з сво<span>ї</span>ми карпинен<span>я</span>тами полукалу-к<span>а</span>рпився."
   },
   {
-    "accent": "К,р",
-    "content": "Не турбуйте курку",
-    "id": 22
+    "id": 23,
+    "accent": [
+      "к",
+      "р"
+    ],
+    "content": "Не турб<span>у</span>йте к<span>у</span>рку - клю<span>є</span> к<span>у</span>рка кр<span>у</span>пку."
   },
   {
-    "accent": "К,ч,т",
-    "content": "Не турбуйте курку, курчаточок, кучерявих клубочаточок.",
-    "id": 23
+    "id": 24,
+    "accent": [
+      "к",
+      "в",
+      "ч"
+    ],
+    "content": "Н<span>а</span>ша верб<span>а</span> найкорчукув<span>а</span>тіша."
   },
   {
-    "accent": "К",
-    "content": "Не клюй, курко, крупку, не кури, котику, люльку.",
-    "id": 24
+    "id": 25,
+    "accent": [
+      "к",
+      "ч",
+      "т"
+    ],
+    "content": "Не турб<span>у</span>йте к<span>у</span>рку, курч<span>а</span>точок, кучер<span>я</span>вих клубоч<span>а</span>точок."
   },
   {
-    "accent": "К,ч",
-    "content": "Ой був собі коточок, украв солі клубочок та й сховався в куточок.",
-    "id": 25
+    "id": 26,
+    "accent": [
+      "к"
+    ],
+    "content": "Не клюй, к<span>у</span>рко, кр<span>у</span>пку, не кур<span>и</span>, к<span>о</span>тику, л<span>ю</span>льку."
   },
   {
-    "accent": "К,т",
-    "content": "Кіт котові каже: \"Коте, до комори кадуб вкотили. В кадуб вкинеш капустину, кілька китичок калини\".",
-    "id": 26
+    "id": 27,
+    "accent": [
+      "к",
+      "ч"
+    ],
+    "content": "Ой був соб<span>і </span>кот<span>о</span>чок, укр<span>а</span>в с<span>о</span>лі клуб<span>о</span>чок та й схов<span>а</span>вся в кут<span>о</span>чок."
   },
   {
-    "accent": "М,р,т",
-    "content": "Ой, збирала Маргаритка маргаритки на горі. Розгубила маргаритки Маргаритка у дворі.",
-    "id": 27
+    "id": 28,
+    "accent": [
+      "к",
+      "т"
+    ],
+    "content": "Кіт кот<span>о</span>ві к<span>а</span>же: \"К<span>о</span>те, до ком<span>о</span>ри к<span>а</span>дуб вкот<span>и</span>ли. В к<span>а</span>дуб вк<span>и</span>неш капуст<span>и</span>ну, к<span>і</span>лька к<span>и</span>тичок кал<span>и</span>ни\"."
   },
   {
-    "accent": "М,н",
-    "content": "Їла Марина малину.",
-    "id": 28
+    "id": 29,
+    "accent": [
+      "м",
+      "р",
+      "т"
+    ],
+    "content": "Ой, збир<span>а</span>ла Маргар<span>и</span>тка маргар<span>и</span>тки на гор<span>і</span>. Розгуб<span>и</span>ла маргар<span>и</span>тки Маргар<span>и</span>тка у двор<span>і</span>."
   },
   {
-    "accent": "П,т",
-    "content": "Лежить п'ять п'ятаків. На кожному п'ятаку ще по п'ятаку.",
-    "id": 29
+    "id": 30,
+    "accent": [
+      "м",
+      "н"
+    ],
+    "content": "<span>Ї</span>ла Мар<span>и</span>на мал<span>и</span>ну."
   },
   {
-    "accent": "П,ш,к",
-    "content": "Сів шпак на шпаківню, заспівав шпак півню:",
-    "id": 30
+    "id": 31,
+    "accent": [
+      "п",
+      "т"
+    ],
+    "content": "Леж<span>и</span>ть п'ять п'ятак<span>і</span>в. На к<span>о</span>жному п'ятак<span>у</span> ще по п'ятак<span>у</span>."
   },
   {
-    "accent": "П,к",
-    "content": "Їхав Прокіп мимо кіп. Лічив снопи по три копи: одна копа ковпаком, друга копа ковпаком, третя копа ковпаком.",
-    "id": 31
+    "id": 32,
+    "accent": [
+      "п",
+      "ш",
+      "к"
+    ],
+    "content": "Сів шпак на шпак<span>і</span>вню, заспів<span>а</span>в шпак п<span>і</span>вню: - Ти не вм<span>і</span>єш так, як я, так, як ти, не вм<span>і</span>ю я."
   },
   {
-    "accent": "П,р,л",
-    "content": "Був собі паламар, його діти паламаренята перепаламарилися.",
-    "id": 32
+    "id": 33,
+    "accent": [
+      "п",
+      "р"
+    ],
+    "content": "В<span>а</span>шому Паламар<span>е</span>ві н<span>а</span>шого Паламар<span>я</span> не перепалам<span>а</span>рювати ст<span>а</span>ти. Наш Палам<span>а</span>р в<span>а</span>шого Паламар<span>я</span> перепалам<span>а</span>рить, перев<span>и</span>паламарить."
   },
   {
-    "accent": "П,р,х",
-    "content": "Кричав Архип, Архип охрип, не треба Архипу кричати до хрипу.Скоромовки для розвитку мовлення37. (П,ц)",
-    "id": 33
+    "id": 34,
+    "accent": [
+      "п",
+      "к"
+    ],
+    "content": "<span>Ї</span>хав Прок<span>і</span>п м<span>и</span>мо кіп. Ліч<span>и</span>в сноп<span>и</span> по три коп<span>и</span>: одн<span>а</span> коп<span>а</span> ковпак<span>о</span>м, др<span>у</span>га коп<span>а</span> ковпак<span>о</span>м, тр<span>е</span>тя коп<span>а</span> ковпак<span>о</span>м."
   },
   {
-    "accent": "П,р",
-    "content": "Не йди попри Прокопові ворота, попри прокопишині.",
-    "id": 34
+    "id": 35,
+    "accent": [
+      "п",
+      "р",
+      "л"
+    ],
+    "content": "Був соб<span>і</span> палам<span>а</span>р, йог<span>о </span>д<span>і</span>ти паламарен<span>я</span>та перепалам<span>а</span>рилися."
   },
   {
-    "accent": "П,ч,к",
-    "content": "Невеличка перепеличка під полукіпком розпідпадьомкалась.",
-    "id": 35
+    "id": 36,
+    "accent": [
+      "п",
+      "р",
+      "х"
+    ],
+    "content": "Крич<span>а</span>в Арх<span>и</span>п, Арх<span>и</span>п охр<span>и</span>п, не тр<span>е</span>ба Арх<span>и</span>пу крич<span>а</span>ти до хр<span>и</span>пу."
   },
   {
-    "accent": "П,л,р",
-    "content": "Пилип прилип, прилип Пилип. Пилип плаче. Пилип посіяв просо, Просо поспіло, Пташки прилетіли, Просо поїли.",
-    "id": 36
+    "id": 37,
+    "accent": [
+      "п",
+      "ц"
+    ],
+    "content": "На пол<span>и</span>ці в короб<span>и</span>ці Півкоров<span>а</span>ю і палян<span>и</span>ця."
   },
   {
-    "accent": "П",
-    "content": "Побіля Прокопа паляниці пекла.",
-    "id": 37
+    "id": 38,
+    "accent": [
+      "п",
+      "р"
+    ],
+    "content": "Не йд<span>и</span> п<span>о</span>при Прок<span>о</span>пові вор<span>о</span>та, п<span>о</span>при прокоп<span>и</span>шині."
   },
   {
-    "accent": "П,л",
-    "content": "Пиляв Пилип поліна з лип, притупив пилку Пилип.",
-    "id": 38
+    "id": 39,
+    "accent": [
+      "п",
+      "ч",
+      "к"
+    ],
+    "content": "Невел<span>и</span>чка перепел<span>и</span>чка під полук<span>і</span>пком розпідпадь<span>о</span>мкалась."
   },
   {
-    "accent": "П,к,р",
-    "content": "Пік біля кіп картоплю Прокіп. Прийшов Прокіп, налляв окріп.",
-    "id": 39
+    "id": 40,
+    "accent": [
+      "п",
+      "л",
+      "р"
+    ],
+    "content": "Пил<span>и</span>п прил<span>и</span>п, прил<span>и</span>п Пил<span>и</span>п. Пил<span>и</span>п пл<span>а</span>че. Пил<span>и</span>п пос<span>і</span>яв пр<span>о</span>со, Пр<span>о</span>со посп<span>і</span>ло, Пташк<span>и</span> прилет<span>і</span>ли, Пр<span>о</span>со по<span>ї</span>ли."
   },
   {
-    "accent": "П",
-    "content": "Ходить перепел між полукіпками зі своїми перепеленятками.Важкі скоромовки45. (П)",
-    "id": 40
+    "id": 41,
+    "accent": [
+      "п"
+    ],
+    "content": "Поб<span>і</span>ля Прок<span>о</span>па палян<span>и</span>ці пекл<span>а</span>."
   },
   {
-    "accent": "Р,к,ч",
-    "content": "В сіренької горлички туркотливе горлечко.",
-    "id": 41
+    "id": 42,
+    "accent": [
+      "п",
+      "л"
+    ],
+    "content": "Пил<span>я</span>в Пил<span>и</span>п пол<span>і</span>на з лип, притуп<span>и</span>в п<span>и</span>лку Пил<span>и</span>п."
   },
   {
-    "accent": "Р,п,к",
-    "content": "Їхали крамарі, стали на горі та й забалакалися",
-    "id": 42
+    "id": 43,
+    "accent": [
+      "п",
+      "к",
+      "р"
+    ],
+    "content": "Пік б<span>і</span>ля кіп карт<span>о</span>плю Прок<span>і</span>п. Прийш<span>о</span>в Прок<span>і</span>п, налл<span>я</span>в окр<span>і</span>п."
   },
   {
-    "accent": "С,з",
-    "content": "Семен сіно віз",
-    "id": 43
+    "id": 44,
+    "accent": [
+      "п"
+    ],
+    "content": "Х<span>о</span>дить п<span>е</span>репел між полук<span>і</span>пками зі сво<span>ї</span>ми перепелен<span>я</span>тками."
   },
   {
-    "accent": "С,н",
-    "content": "Сидів горобець на сосні,",
-    "id": 44
+    "id": 45,
+    "accent": [
+      "п"
+    ],
+    "content": "П<span>о</span>ля п<span>о</span>ле полив<span>а</span>є, п<span>о</span>ле й переп<span>о</span>лює."
   },
   {
-    "accent": "С,р,к",
-    "content": "Хитру сороку спіймати морока, а на сорок сорок",
-    "id": 45
+    "id": 46,
+    "accent": [
+      "р",
+      "к",
+      "ч"
+    ],
+    "content": "В сір<span>е</span>нької г<span>о</span>рлички туркотл<span>и</span>ве г<span>о</span>рлечко."
   },
   {
-    "accent": "С,б,п,р",
-    "content": "Стриб",
-    "id": 46
+    "id": 47,
+    "accent": [
+      "р",
+      "п",
+      "к"
+    ],
+    "content": "<span>Ї</span>хали крамар<span>і</span>, ст<span>а</span>ли на гор<span>і</span> та й забал<span>а</span>калися - про Прок<span>о</span>па, про Прок<span>о</span>пиху і про мал<span>е</span>нькі Прокопен<span>я</span>та."
   },
   {
-    "accent": "С",
-    "content": "На покоси впали роси. Не бряжчать об жито коси.",
-    "id": 47
+    "id": 48,
+    "accent": [
+      "с",
+      "з"
+    ],
+    "content": "Сем<span>е</span>н с<span>і</span>но віз - не дов<span>і</span>з: лиш<span>и</span>в с<span>а</span>ни - уз<span>я</span>в віз."
   },
   {
-    "accent": "Т,с",
-    "content": "Ходить посмітюха по смітничку з своїми посмітюшенятами.",
-    "id": 48
+    "id": 49,
+    "accent": [
+      "с",
+      "н"
+    ],
+    "content": "Сид<span>і</span>в гороб<span>е</span>ць на сосн<span>і</span>,- засн<span>у</span>в - і уп<span>а</span>в ув<span>і</span> сн<span>і</span>. Якб<span>и</span> не уп<span>а</span>в ув<span>і</span> сн<span>і</span>. Сид<span>і</span>в би він ще на сосн<span>і</span>."
   },
   {
-    "accent": "Ть,с",
-    "content": "Босий хлопець сіно косить, роса росить ноги босі.",
-    "id": 49
+    "id": 50,
+    "accent": [
+      "с",
+      "р",
+      "к"
+    ],
+    "content": "Х<span>и</span>тру сор<span>о</span>ку спійм<span>а</span>ти мор<span>о</span>ка, а на с<span>о</span>рок сор<span>о</span>к - с<span>о</span>рок мор<span>о</span>к."
   },
   {
-    "accent": "Ф,р,м",
-    "content": "Фірма ферму будувала. Фірмі фарби було мало.",
-    "id": 50
+    "id": 51,
+    "accent": [
+      "с",
+      "б",
+      "п",
+      "р"
+    ],
+    "content": "Стриб-стриб-стриб - підстр<span>и</span>бує по стерн<span>і</span> рідн<span>я</span>: переп<span>і</span>лка, п<span>е</span>репел, перепелен<span>я</span>."
   },
   {
-    "accent": "Х,ц",
-    "content": "Летів горобець через верхній хлівець, ніс пуд гороху і нам дав потроху.Складні скоромовки57. (Х,п,к)",
-    "id": 51
+    "id": 52,
+    "accent": [
+      "с"
+    ],
+    "content": "На пок<span>о</span>си вп<span>а</span>ли р<span>о</span>си. Не бряжч<span>а</span>ть об ж<span>и</span>то к<span>о</span>си."
   },
   {
-    "accent": "Х,т",
-    "content": "Хтось хитренький хитрував",
-    "id": 52
+    "id": 53,
+    "accent": [
+      "т",
+      "с"
+    ],
+    "content": "Х<span>о</span>дить посм<span>і</span>тюха по смітничк<span>у</span> з сво<span>ї</span>ми посмітюшен<span>я</span>тами."
   },
   {
-    "accent": "Ц,н",
-    "content": "Напекли млинців, назвали кравців. А кравець за млинці та й побіг у танець!",
-    "id": 53
+    "id": 54,
+    "accent": [
+      "ть",
+      "с"
+    ],
+    "content": "Б<span>о</span>сий хл<span>о</span>пець с<span>і</span>но к<span>о</span>сить, рос<span>а</span> р<span>о</span>сить н<span>о</span>ги б<span>о</span>сі."
   },
   {
-    "accent": "Ч,т,р",
-    "content": "У чотирьох черепашок четверо черепашенят.",
-    "id": 54
+    "id": 55,
+    "accent": [
+      "ф",
+      "р",
+      "м"
+    ],
+    "content": "Ф<span>і</span>рма ф<span>е</span>рму будув<span>а</span>ла. Ф<span>і</span>рмі ф<span>а</span>рби бул<span>о</span> м<span>а</span>ло."
   },
   {
-    "accent": "Ч,б,к",
-    "content": "Летів горобчик, сів на стовпчик, прибіг хлопчик",
-    "id": 55
+    "id": 56,
+    "accent": [
+      "х",
+      "ц"
+    ],
+    "content": "Лет<span>і</span>в гороб<span>е</span>ць ч<span>е</span>рез в<span>е</span>рхній хлів<span>е</span>ць, ніс пуд гор<span>о</span>ху і нам дав потр<span>о</span>ху."
+  },
+  {
+    "id": 57,
+    "accent": [
+      "х",
+      "п",
+      "к"
+    ],
+    "content": "У н<span>а</span>шого д<span>і</span>да капел<span>ю</span>х не по-капел<span>ю</span>хівськи."
+  },
+  {
+    "id": 58,
+    "accent": [
+      "х",
+      "т"
+    ],
+    "content": "Хтось хитр<span>е</span>нький хитрув<span>а</span>в - н<span>а</span>шу хв<span>і</span>ртку полам<span>а</span>в."
+  },
+  {
+    "id": 59,
+    "accent": [
+      "ц",
+      "н"
+    ],
+    "content": "Напекл<span>и</span> млинц<span>і</span>в, назв<span>а</span>ли кравц<span>і</span>в. А крав<span>е</span>ць за млинц<span>і </span>та й поб<span>і</span>г у т<span>а</span>нець!"
+  },
+  {
+    "id": 60,
+    "accent": [
+      "ч",
+      "т",
+      "р"
+    ],
+    "content": "У чотирь<span>о</span>х череп<span>а</span>шок ч<span>е</span>тверо черепашен<span>я</span>т."
+  },
+  {
+    "id": 61,
+    "accent": [
+      "ч",
+      "б",
+      "к"
+    ],
+    "content": "Лет<span>і</span>в гор<span>о</span>бчик, сів на ст<span>о</span>впчик, приб<span>і</span>г хл<span>о</span>пчик - ут<span>і</span>к гор<span>о</span>бчик."
+  },
+  {
+    "id": 62,
+    "accent": [
+      "ш"
+    ],
+    "content": "Над шл<span>я</span>хом Явд<span>о</span>шка шук<span>а</span>ла вол<span>о</span>шки."
+  },
+  {
+    "id": 63,
+    "accent": [
+      "ш",
+      "с"
+    ],
+    "content": "Ш<span>и</span>шки на сосн<span>і</span>, ш<span>а</span>шки на стол<span>і</span>."
   }
 ]

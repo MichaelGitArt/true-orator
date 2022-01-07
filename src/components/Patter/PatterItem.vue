@@ -9,19 +9,27 @@ defineProps<{
 <template>
   <div
     flex="~ col"
-    border="b-1 gray-400"
-    p="b-2 t-3"
+    p="y-2 x-3"
+    shadow="gray-300 lg"
+    border="gray-300 1 rounded-md"
     font="semibold"
   >
     <span
       text="gray-400"
-      v-text="patter.accent"
+      v-text="patter.accent.join(',')"
     />
 
-    <span
-      text="lg"
+    <div
+      class="item-content"
+      text="md"
       leading="6"
-      v-text="patter.content"
+      v-html="patter.content"
     />
   </div>
 </template>
+
+<style lang="scss" scoped>
+.item-content ::v-deep(span) {
+  color: red;
+}
+</style>

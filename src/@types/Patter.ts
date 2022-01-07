@@ -1,5 +1,5 @@
 export interface IPatter {
   id: number
-  accent: string
+  accent: string[]
   content: string
 }
