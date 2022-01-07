@@ -12,6 +12,7 @@ export default defineConfig({
   theme: {
     extend: {
       colors: {
+        // https://www.materialpalette.com/teal/deep-orange
         'accent': '#009688',
         'accent-dark': '#00796B',
       },
