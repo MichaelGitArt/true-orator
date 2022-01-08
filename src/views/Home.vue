@@ -1,18 +1,20 @@
 <script setup lang="ts">
-import PatterList from '@/components/Patter/PatterList.vue'
+import PatterList from '@/components/Patter/PatterList/PatterList.vue'
 </script>
 
 <template>
-  <div class="px-3">
-    <h1
-      text="xl"
-      font="semibold"
-      p="t-4 "
-      m="b-4"
-    >
-      Скоромовки
-    </h1>
-
-    <PatterList />
+  <div
+    p="x-3 b-4 t-5"
+  >
+    <PatterList>
+      <template #header>
+        <h1
+          text="xl"
+          font="semibold"
+        >
+          Скоромовки
+        </h1>
+      </template>
+    </PatterList>
   </div>
 </template>
